@@ -114,7 +114,7 @@ To evaluate **end-to-end ad performance**:
 ![Dashboard Screenshot](https://github.com/Karan-Dahiwale/Meta-Ad-Performance-Dashboard/blob/main/Meta%20Ad%20Performance(Facebook).png)
 
 ### Interview Visual Summary
-![Interview Visual](sandbox:/mnt/data/dashboard_page_2.png)
+![Interview Visual](https://github.com/Karan-Dahiwale/Meta-Ad-Performance-Dashboard/blob/main/Meta%20Ad%20Performance(Instagram).png)
 
 ---
 
