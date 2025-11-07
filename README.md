@@ -1,111 +1,131 @@
 # 📊 Meta Ad Performance Analysis Dashboard
 
-A data-driven dashboard analyzing Meta Ads campaign performance across awareness, engagement, and conversion stages. The project evaluates marketing efficiency using funnel metrics, demographic insights, geography trends, and ad format performance.
+A data-driven Power BI dashboard analyzing **Meta Ads campaign performance** across awareness, engagement, and conversion stages.  
+It helps marketing teams evaluate **ad efficiency, audience behavior, and ROI performance** through detailed KPI tracking and visual storytelling.
 
 ---
 
-## 📌 Project Preview
+## 🧭 Project Purpose
 
-### Dashboard Screenshot
-![Dashboard Insights](sandbox:/mnt/data/dashboard_page_1.png)
+Digital marketing teams often struggle to identify **which campaigns actually drive business results**.  
+This project aims to:
+- Evaluate ad performance across different stages of the funnel.
+- Understand **who engages and converts** most efficiently.
+- Provide actionable insights to **optimize ad spend** and **boost conversions**.
 
----
-
-## 🎯 Objective
-To measure Ad performance and optimize ROI by understanding:
-- Which ads work best?
-- Who engages the most?
-- When users are most active?
-- How efficiently clicks convert into purchases?
+> 🎯 The dashboard helps decision-makers turn ad data into strategies that increase ROI and lower wasted spend.
 
 ---
 
-## 🧩 Key KPIs
+## 🛠️ Tech Stack
 
+- **Power BI** – Interactive dashboard design and KPI visualization  
+- **Microsoft Excel / CSV** – Data cleaning and preprocessing  
+- **Meta Ads Data (Facebook/Instagram)** – Primary campaign performance dataset  
+- *(Optional)* Tableau / Python – For exploratory analysis and comparison  
+
+---
+
+## 🗂️ Data Source
+
+The dataset is derived from **Meta Ad Manager exports**, containing:
+- Campaign metadata (Ad Name, Format, Objective)
+- Metrics (Impressions, Clicks, Conversions, Engagements)
+- Audience details (Age, Gender, Country)
+- Budget and Cost-per-metric data
+
+> Preprocessing was done in Excel before importing into Power BI.
+
+---
+
+## 🚀 Features & Highlights
+
+### 🔹 1. Business Problem
+Marketers run multiple Meta campaigns but **lack visibility into what’s actually driving ROI**.  
+They need a unified dashboard to monitor funnel drop-offs and optimize ad strategy.
+
+---
+
+### 🔹 2. Goal of the Dashboard
+To evaluate **end-to-end ad performance**:
+- From awareness (Impressions) → engagement (Clicks) → conversion (Purchases)
+- Identify **best-performing audiences, ad formats, and time slots**
+- Highlight areas of **inefficiency in conversion funnel**
+
+---
+
+### 🔹 3. Walkthrough of Key Visuals & Insights
+
+#### 📈 Funnel Analysis
 | Metric | Value | Insight |
 |-------|------|---------|
 | **Impressions** | 216K | Great reach |
-| **Clicks** | 25.4K | Strong interest generated |
+| **Clicks** | 25.4K | Strong user interest |
 | **CTR** | 11.76% | 🔥 Above industry average (1–2%) |
-| **Engagement Rate** | 13.56% | Strong audience resonance |
-| **Purchases** | 1.3K | Low conversion |
-| **Conversion Rate** | 5.21% | Good from clicks ✅ |
-| **Purchase Rate** | 0.61% | Funnel leakage ❌ |
-| **Total Budget** | 2.5M | Multiple campaigns executed |
+| **Purchases** | 1.3K | Low conversion rate |
+| **Total Budget** | 2.5M | Multiple campaigns analyzed |
 
-> 🚨 Ads create awareness & engagement but struggle to convert — landing page & CTA need improvement.
+> 📊 *Campaigns are strong in awareness and engagement but underperform in final conversions — indicating a funnel gap.*
 
 ---
 
-## 👥 Audience Insights
-
-| Category | Findings | Actionable Insight |
-|---------|----------|------------------|
-| Gender | Females (43%) > Males (22%) | Target more female-oriented creatives |
-| Age | Majority 18–30 | Prioritize young adult audience |
-| Location | India, US, Brazil highest engagement | Market strategy segmentation required |
-
----
-
-## 🕒 Best Time to Advertise
-- Peak engagement in **afternoons & evenings (15:00–20:00)**
-- Weekly engagement **consistent**
-- Certain event-based spikes around **June 19–21 & 25–27**
-
-👉 Schedule ads during high-traffic hours for maximum impact.
+#### 👥 Audience Insights
+| Category | Finding | Recommendation |
+|---------|----------|----------------|
+| **Gender** | Females engage more (43%) than males (22%) | Focus more on female-oriented creatives |
+| **Age** | 18–30 performs best | Target young adults |
+| **Location** | India, US, Brazil dominate impressions | Localize strategies for these regions |
 
 ---
 
-## 🎥 Ad Format Performance
+#### 🕒 Temporal Trends
+- Engagement peaks between **3 PM – 8 PM**
+- Consistent weekly performance
+- Campaign spikes during **June 19–21 & 25–27**
 
-| Format | CTR | Conv. Rate | Engagement Rate |
-|--------|-----|------------|----------------|
+> 🕔 **Run ads during high-engagement windows for better ROI.**
+
+---
+
+#### 🎥 Ad Format Analysis
+| Format | CTR | Conversion | Engagement |
+|--------|-----|-------------|------------|
 | **Video** | ⭐ Highest | ⭐ Highest | ⭐ Highest |
-| Stories | Strong | Strong | Strong |
-| Image | Moderate | Lower | Good |
-| Carousel | Moderate | Lower | Decent |
+| **Stories** | Strong | Strong | Strong |
+| **Image / Carousel** | Moderate | Lower | Decent |
 
-✅ Prioritize budget on **Video & Story** ads.
-
----
-
-## 🧠 Final Recommendations
-| Focus Area | Improvement Strategy |
-|-----------|---------------------|
-| Conversion Funnel | Retargeting + Better landing page UX |
-| Audience Segmentation | Young Females + India/Brazil for scale |
-| Ad Budget Allocation | More spend on high-performing formats |
-| Scheduling | Allocate budget to peak engagement times |
+> 🎬 Focus more on **Video and Story ads** to increase CTR and conversion efficiency.
 
 ---
 
-## 🗣 Interview Explanation Clip
+### 🔹 4. Business Impact & Insights
+✅ Improved marketing decision-making through data visibility  
+✅ Identified **high-performing demographics and time windows**  
+✅ Suggested **budget reallocation** to video content for ROI uplift  
+✅ Highlighted **conversion drop-off areas** for process improvement  
 
+> 💡 The dashboard empowers marketing teams to optimize campaigns, reduce wasted ad spend, and target profitable audiences effectively.
+
+---
+
+## 🖼️ Screenshots
+
+### Dashboard Overview
+![Dashboard Screenshot](sandbox:/mnt/data/dashboard_page_1.png)
+
+### Interview Visual Summary
 ![Interview Visual](sandbox:/mnt/data/dashboard_page_2.png)
 
-> *“The dashboard shows incredible campaign reach and engagement but signals a need to optimize the conversion stage. If I lead this project, I would focus on landing page optimization and retargeting strategies.”*
-
 ---
 
-## 🛠 Tech Stack
-- **Power BI** (or Tableau)
-- Meta Ads Data (CSV / API Export)
-- Excel for core data prep
-
----
-
-## 📌 Files Included
-| File | Description |
-|------|-------------|
-| `Dashboard Insights.pdf` | Full dashboard breakdown |
-| `Project Explanation in Interview.pdf` | Interview-friendly breakdown |
-
----
 
 ## 👤 Author
-**Your Name**
 
-If you found this project insightful, give it a ⭐ on GitHub!
+**Karan Dahiwale**  
+📧 Email: [Add yours here]  
+💼 Aspiring Data Analyst / Business Intelligence Developer  
+
+> If you found this project insightful, please ⭐ the repository!
 
 ---
 
