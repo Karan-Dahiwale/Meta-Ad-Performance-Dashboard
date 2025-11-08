@@ -22,7 +22,6 @@ This project aims to:
 - **Power BI** – Interactive dashboard design and KPI visualization  
 - **Microsoft Excel / CSV** – Data cleaning and preprocessing  
 - **Meta Ads Data (Facebook/Instagram)** – Primary campaign performance dataset  
-- *(Optional)* Tableau / Python – For exploratory analysis and comparison  
 
 
 
@@ -56,7 +55,7 @@ To evaluate **end-to-end ad performance**:
 
 ### 🔹 3. Walkthrough of Key Visuals & Insights
 
-#### 📈 Funnel Analysis
+#### 📈 Funnel Analysis (Facebook)
 | Metric | Value | Insight |
 |-------|------|---------|
 | **Impressions** | 216K | Great reach |
@@ -64,6 +63,18 @@ To evaluate **end-to-end ad performance**:
 | **CTR** | 11.76% | 🔥 Above industry average (1–2%) |
 | **Purchases** | 1.3K | Low conversion rate |
 | **Total Budget** | 2.5M | Multiple campaigns analyzed |
+
+
+
+#### 📈 Funnel Analysis (Instagram)
+| **Metric** | **Value** | **Insight** |
+|-------------|------------|--------------|
+| **Impressions** | 123.8K | Good campaign reach |
+| **Clicks** | 14.7K | Strong audience engagement |
+| **CTR** | 11.86% | 🔥 Above industry average (1–2%) |
+| **Purchases** | 708 | Moderate conversion rate |
+| **Total Budget** | $2.5M | Multiple campaigns analyzed |
+
 
 > 📊 *Campaigns are strong in awareness and engagement but underperform in final conversions — indicating a funnel gap.*
 
