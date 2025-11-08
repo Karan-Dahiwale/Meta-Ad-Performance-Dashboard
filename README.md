@@ -3,7 +3,7 @@
 A data-driven Power BI dashboard analyzing **Meta Ads campaign performance** across awareness, engagement, and conversion stages.  
 It helps marketing teams evaluate **ad efficiency, audience behavior, and ROI performance** through detailed KPI tracking and visual storytelling.
 
----
+
 
 ## 🧭 Project Purpose
 
@@ -15,7 +15,7 @@ This project aims to:
 
 > 🎯 The dashboard helps decision-makers turn ad data into strategies that increase ROI and lower wasted spend.
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -24,7 +24,7 @@ This project aims to:
 - **Meta Ads Data (Facebook/Instagram)** – Primary campaign performance dataset  
 - *(Optional)* Tableau / Python – For exploratory analysis and comparison  
 
----
+
 
 ## 🗂️ Data Source
 
@@ -36,7 +36,7 @@ The dataset is derived from **Meta Ad Manager exports**, containing:
 
 > Preprocessing was done in Excel before importing into Power BI.
 
----
+
 
 ## 🚀 Features & Highlights
 
@@ -44,7 +44,7 @@ The dataset is derived from **Meta Ad Manager exports**, containing:
 Marketers run multiple Meta campaigns but **lack visibility into what’s actually driving ROI**.  
 They need a unified dashboard to monitor funnel drop-offs and optimize ad strategy.
 
----
+
 
 ### 🔹 2. Goal of the Dashboard
 To evaluate **end-to-end ad performance**:
@@ -52,7 +52,7 @@ To evaluate **end-to-end ad performance**:
 - Identify **best-performing audiences, ad formats, and time slots**
 - Highlight areas of **inefficiency in conversion funnel**
 
----
+
 
 ### 🔹 3. Walkthrough of Key Visuals & Insights
 
@@ -67,7 +67,7 @@ To evaluate **end-to-end ad performance**:
 
 > 📊 *Campaigns are strong in awareness and engagement but underperform in final conversions — indicating a funnel gap.*
 
----
+
 
 #### 👥 Audience Insights
 | Category | Finding | Recommendation |
@@ -76,7 +76,7 @@ To evaluate **end-to-end ad performance**:
 | **Age** | 18–30 performs best | Target young adults |
 | **Location** | India, US, Brazil dominate impressions | Localize strategies for these regions |
 
----
+
 
 #### 🕒 Temporal Trends
 - Engagement peaks between **3 PM – 8 PM**
@@ -85,7 +85,7 @@ To evaluate **end-to-end ad performance**:
 
 > 🕔 **Run ads during high-engagement windows for better ROI.**
 
----
+
 
 #### 🎥 Ad Format Analysis
 | Format | CTR | Conversion | Engagement |
@@ -96,7 +96,7 @@ To evaluate **end-to-end ad performance**:
 
 > 🎬 Focus more on **Video and Story ads** to increase CTR and conversion efficiency.
 
----
+
 
 ### 🔹 4. Business Impact & Insights
 ✅ Improved marketing decision-making through data visibility  
@@ -106,7 +106,7 @@ To evaluate **end-to-end ad performance**:
 
 > 💡 The dashboard empowers marketing teams to optimize campaigns, reduce wasted ad spend, and target profitable audiences effectively.
 
----
+
 
 ## 🖼️ Screenshots
 
@@ -116,7 +116,7 @@ To evaluate **end-to-end ad performance**:
 ### Interview Visual Summary
 ![Interview Visual](https://github.com/Karan-Dahiwale/Meta-Ad-Performance-Dashboard/blob/main/Meta%20Ad%20Performance(Instagram).png)
 
----
+
 
 
 ## 👤 Author
