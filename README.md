@@ -110,10 +110,10 @@ To evaluate **end-to-end ad performance**:
 
 ## 🖼️ Screenshots
 
-### Dashboard Overview
+### Dashboard Overview (Facebook)
 ![Dashboard Screenshot](https://github.com/Karan-Dahiwale/Meta-Ad-Performance-Dashboard/blob/main/Meta%20Ad%20Performance(Facebook).png)
 
-### Interview Visual Summary
+### Dashboard Overview (Instagram)
 ![Interview Visual](https://github.com/Karan-Dahiwale/Meta-Ad-Performance-Dashboard/blob/main/Meta%20Ad%20Performance(Instagram).png)
 
 
