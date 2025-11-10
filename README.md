@@ -130,12 +130,6 @@ To evaluate **end-to-end ad performance**:
 
 
 
-## 👤 Author
-
-**Karan Dahiwale**  
-📧 Email: [Add yours here]  
-💼 Aspiring Data Analyst / Business Intelligence Developer  
-
 > If you found this project insightful, please ⭐ the repository!
 
 ---
